@@ -1227,8 +1227,8 @@ opencv2/opencv.hpp
 -
 iostream
 -
-opencv-testConfig.h
+Config.h
 -
 
-opencv-testConfig.h
+Config.h
 

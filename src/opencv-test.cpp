@@ -1,6 +1,6 @@
 #include <opencv2/opencv.hpp>
 #include <iostream>
-#include <opencv-testConfig.h>
+#include <Config.h>
 
 int main(int argc, char* argv[])
 {	

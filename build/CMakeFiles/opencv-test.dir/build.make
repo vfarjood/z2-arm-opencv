@@ -60,15 +60,15 @@ include CMakeFiles/opencv-test.dir/flags.make
 CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o: CMakeFiles/opencv-test.dir/flags.make
 CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o: ../src/opencv-test.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/siena/dev/code/z2-arm-opencv/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o"
-	/usr/bin/arm-linux-gnueabihf-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o -c /home/siena/dev/code/z2-arm-opencv/src/opencv-test.cpp
+	arm-linux-gnueabihf-g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o -c /home/siena/dev/code/z2-arm-opencv/src/opencv-test.cpp
 
 CMakeFiles/opencv-test.dir/src/opencv-test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opencv-test.dir/src/opencv-test.cpp.i"
-	/usr/bin/arm-linux-gnueabihf-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/siena/dev/code/z2-arm-opencv/src/opencv-test.cpp > CMakeFiles/opencv-test.dir/src/opencv-test.cpp.i
+	arm-linux-gnueabihf-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/siena/dev/code/z2-arm-opencv/src/opencv-test.cpp > CMakeFiles/opencv-test.dir/src/opencv-test.cpp.i
 
 CMakeFiles/opencv-test.dir/src/opencv-test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opencv-test.dir/src/opencv-test.cpp.s"
-	/usr/bin/arm-linux-gnueabihf-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/siena/dev/code/z2-arm-opencv/src/opencv-test.cpp -o CMakeFiles/opencv-test.dir/src/opencv-test.cpp.s
+	arm-linux-gnueabihf-g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/siena/dev/code/z2-arm-opencv/src/opencv-test.cpp -o CMakeFiles/opencv-test.dir/src/opencv-test.cpp.s
 
 # Object files for target opencv-test
 opencv__test_OBJECTS = \

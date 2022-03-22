@@ -215,9 +215,6 @@ CMAKE_STRIP:FILEPATH=/usr/bin/strip
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
-//OPENCV library for Computer Vision
-USE_LIB_OPENCV:BOOL=ON
-
 //Value Computed by CMake
 opencv-test_BINARY_DIR:STATIC=/home/siena/dev/code/z2-arm-opencv/build
 

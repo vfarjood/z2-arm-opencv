@@ -121,5 +121,5 @@ CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o: ../lib/opencv-4/include/opencv
 CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o: ../lib/opencv-4/include/opencv4/opencv2/videostab/stabilizer.hpp
 CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o: ../lib/opencv-4/include/opencv4/opencv2/videostab/wobble_suppression.hpp
 CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o: ../src/opencv-test.cpp
-CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o: opencv-testConfig.h
+CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o: Config.h
 

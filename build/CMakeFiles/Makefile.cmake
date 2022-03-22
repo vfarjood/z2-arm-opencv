@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "../CMakeLists.txt"
+  "../Config.h.in"
   "CMakeFiles/3.13.4/CMakeCCompiler.cmake"
   "CMakeFiles/3.13.4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.13.4/CMakeSystem.cmake"
   "CMakeFiles/feature_tests.c"
   "CMakeFiles/feature_tests.cxx"
-  "../opencv-testConfig.h.in"
   "/usr/share/cmake-3.13/Modules/CMakeCCompiler.cmake.in"
   "/usr/share/cmake-3.13/Modules/CMakeCCompilerABI.c"
   "/usr/share/cmake-3.13/Modules/CMakeCInformation.cmake"
@@ -111,7 +111,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/3.13.4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.13.4/CMakeCCompiler.cmake"
   "CMakeFiles/3.13.4/CMakeCXXCompiler.cmake"
-  "opencv-testConfig.h"
+  "Config.h"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
