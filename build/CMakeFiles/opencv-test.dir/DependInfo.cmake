@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/siena/dev/code/opencv/z2-arm-opencv/src/opencv-test.cpp" "/home/siena/dev/code/opencv/z2-arm-opencv/build/CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o"
+  "/home/siena/dev/code/z2-arm-opencv/src/opencv-test.cpp" "/home/siena/dev/code/z2-arm-opencv/build/CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

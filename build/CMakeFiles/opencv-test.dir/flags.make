@@ -6,5 +6,5 @@ CXX_FLAGS =  -std=c++17
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/siena/dev/code/opencv/z2-arm-opencv/build -I/home/siena/dev/code/opencv/z2-arm-opencv/lib/opencv-4/include/opencv4 
+CXX_INCLUDES = -I/home/siena/dev/code/z2-arm-opencv/build -I/home/siena/dev/code/z2-arm-opencv/lib/opencv-4/include/opencv4 
 

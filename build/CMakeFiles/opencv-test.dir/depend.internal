@@ -121,5 +121,5 @@ CMakeFiles/opencv-test.dir/src/opencv-test.cpp.o
  ../lib/opencv-4/include/opencv4/opencv2/videostab/ring_buffer.hpp
  ../lib/opencv-4/include/opencv4/opencv2/videostab/stabilizer.hpp
  ../lib/opencv-4/include/opencv4/opencv2/videostab/wobble_suppression.hpp
- /home/siena/dev/code/opencv/z2-arm-opencv/src/opencv-test.cpp
+ /home/siena/dev/code/z2-arm-opencv/src/opencv-test.cpp
  opencv-testConfig.h
